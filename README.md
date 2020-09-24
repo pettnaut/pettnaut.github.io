@@ -1,2 +1,7 @@
-# pettnaut.github.io
-This repo is for host the info page about the project Pettnaut
+# Pettnaut landing page
+This repo is for host the info page about the project Pettnaut. See: https://pettnaut.github.io/
+
+
+
+
+
