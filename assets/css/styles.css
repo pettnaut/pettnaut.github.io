@@ -43,3 +43,13 @@ h6 {
   margin: 0.5rem 0 0.4rem 0;
 }
 
+.primary-background {
+  background-color: #5D34AF;
+  color: #FFFFFF;
+}
+
+.secondary-background {
+  background-color: #FFD54F;
+  color: #000000;
+}
+
